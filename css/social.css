@@ -25,3 +25,8 @@ a:hover {
     background-color: red;
 }
 
+/* para nao ter scroll bar */ 
+::-webkit-scrollbar {
+    height: 0PX;
+    width: 0PX;
+}
